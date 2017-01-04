@@ -1,0 +1,6 @@
+D:\C#\ClassesАndObjects\Triangle2SidesAngle\bin\Debug\Triangle2SidesAngle.exe.config
+D:\C#\ClassesАndObjects\Triangle2SidesAngle\bin\Debug\Triangle2SidesAngle.exe
+D:\C#\ClassesАndObjects\Triangle2SidesAngle\bin\Debug\Triangle2SidesAngle.pdb
+D:\C#\ClassesАndObjects\Triangle2SidesAngle\obj\Debug\Triangle2SidesAngle.exe
+D:\C#\ClassesАndObjects\Triangle2SidesAngle\obj\Debug\Triangle2SidesAngle.pdb
+D:\C#\ClassesАndObjects\Triangle2SidesAngle\obj\Debug\Triangle2SidesAngle.csprojResolveAssemblyReference.cache

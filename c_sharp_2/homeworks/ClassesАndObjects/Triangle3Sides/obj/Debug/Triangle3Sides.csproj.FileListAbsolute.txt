@@ -1,0 +1,6 @@
+D:\C#\ClassesАndObjects\Triangle3Sides\bin\Debug\Triangle3Sides.exe.config
+D:\C#\ClassesАndObjects\Triangle3Sides\bin\Debug\Triangle3Sides.exe
+D:\C#\ClassesАndObjects\Triangle3Sides\bin\Debug\Triangle3Sides.pdb
+D:\C#\ClassesАndObjects\Triangle3Sides\obj\Debug\Triangle3Sides.csprojResolveAssemblyReference.cache
+D:\C#\ClassesАndObjects\Triangle3Sides\obj\Debug\Triangle3Sides.exe
+D:\C#\ClassesАndObjects\Triangle3Sides\obj\Debug\Triangle3Sides.pdb

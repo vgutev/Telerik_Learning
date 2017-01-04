@@ -1,0 +1,9 @@
+D:\C#\NumeralSystems\AnyToAny\bin\Debug\AnyToAny.exe.config
+D:\C#\NumeralSystems\AnyToAny\bin\Debug\AnyToAny.exe
+D:\C#\NumeralSystems\AnyToAny\bin\Debug\AnyToAny.pdb
+D:\C#\NumeralSystems\AnyToAny\obj\Debug\AnyToAny.csprojResolveAssemblyReference.cache
+D:\C#\NumeralSystems\AnyToAny\obj\Debug\AnyToAny.exe
+D:\C#\NumeralSystems\AnyToAny\obj\Debug\AnyToAny.pdb
+H:\C#2\homeworks\NumeralSystems\AnyToAny\bin\Debug\AnyToAny.exe.config
+H:\C#2\homeworks\NumeralSystems\AnyToAny\obj\Debug\AnyToAny.exe
+H:\C#2\homeworks\NumeralSystems\AnyToAny\obj\Debug\AnyToAny.pdb

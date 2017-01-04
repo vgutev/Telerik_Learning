@@ -1,0 +1,5 @@
+H:\C#1\Projects\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.exe
+H:\C#1\Projects\StringsAndTextProcessing\CorrectBrackets\bin\Debug\CorrectBrackets.pdb
+H:\C#1\Projects\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.exe
+H:\C#1\Projects\StringsAndTextProcessing\CorrectBrackets\obj\Debug\CorrectBrackets.pdb

@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.exe
+H:\C#1\Projects\StringsAndTextProcessing\ParseURL\bin\Debug\ParseURL.pdb
+H:\C#1\Projects\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.exe
+H:\C#1\Projects\StringsAndTextProcessing\ParseURL\obj\Debug\ParseURL.pdb

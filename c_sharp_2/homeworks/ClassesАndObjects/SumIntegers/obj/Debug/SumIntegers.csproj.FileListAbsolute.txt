@@ -1,0 +1,6 @@
+D:\C#\ClassesАndObjects\SumIntegers\bin\Debug\SumIntegers.exe.config
+D:\C#\ClassesАndObjects\SumIntegers\bin\Debug\SumIntegers.exe
+D:\C#\ClassesАndObjects\SumIntegers\bin\Debug\SumIntegers.pdb
+D:\C#\ClassesАndObjects\SumIntegers\obj\Debug\SumIntegers.csprojResolveAssemblyReference.cache
+D:\C#\ClassesАndObjects\SumIntegers\obj\Debug\SumIntegers.exe
+D:\C#\ClassesАndObjects\SumIntegers\obj\Debug\SumIntegers.pdb

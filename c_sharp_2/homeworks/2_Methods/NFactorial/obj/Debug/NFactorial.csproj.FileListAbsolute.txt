@@ -1,0 +1,6 @@
+H:\C#2\homeworks\2_Methods\NFactorial\bin\Debug\NFactorial.exe.config
+H:\C#2\homeworks\2_Methods\NFactorial\bin\Debug\NFactorial.exe
+H:\C#2\homeworks\2_Methods\NFactorial\bin\Debug\NFactorial.pdb
+H:\C#2\homeworks\2_Methods\NFactorial\obj\Debug\NFactorial.csprojResolveAssemblyReference.cache
+H:\C#2\homeworks\2_Methods\NFactorial\obj\Debug\NFactorial.exe
+H:\C#2\homeworks\2_Methods\NFactorial\obj\Debug\NFactorial.pdb

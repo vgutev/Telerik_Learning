@@ -1,0 +1,5 @@
+D:\C#\NumeralSystems\BinHex\bin\Debug\BinHex.exe.config
+D:\C#\NumeralSystems\BinHex\bin\Debug\BinHex.exe
+D:\C#\NumeralSystems\BinHex\bin\Debug\BinHex.pdb
+D:\C#\NumeralSystems\BinHex\obj\Debug\BinHex.exe
+D:\C#\NumeralSystems\BinHex\obj\Debug\BinHex.pdb

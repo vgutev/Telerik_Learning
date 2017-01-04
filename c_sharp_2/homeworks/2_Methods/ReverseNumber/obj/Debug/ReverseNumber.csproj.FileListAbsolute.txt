@@ -1,0 +1,6 @@
+H:\C#2\homeworks\2_Methods\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+H:\C#2\homeworks\2_Methods\ReverseNumber\bin\Debug\ReverseNumber.exe
+H:\C#2\homeworks\2_Methods\ReverseNumber\bin\Debug\ReverseNumber.pdb
+H:\C#2\homeworks\2_Methods\ReverseNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
+H:\C#2\homeworks\2_Methods\ReverseNumber\obj\Debug\ReverseNumber.exe
+H:\C#2\homeworks\2_Methods\ReverseNumber\obj\Debug\ReverseNumber.pdb

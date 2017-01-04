@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\ExtractSentences2\bin\Debug\ExtractSentences2.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\ExtractSentences2\bin\Debug\ExtractSentences2.exe
+H:\C#1\Projects\StringsAndTextProcessing\ExtractSentences2\bin\Debug\ExtractSentences2.pdb
+H:\C#1\Projects\StringsAndTextProcessing\ExtractSentences2\obj\Debug\ExtractSentences2.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\ExtractSentences2\obj\Debug\ExtractSentences2.exe
+H:\C#1\Projects\StringsAndTextProcessing\ExtractSentences2\obj\Debug\ExtractSentences2.pdb

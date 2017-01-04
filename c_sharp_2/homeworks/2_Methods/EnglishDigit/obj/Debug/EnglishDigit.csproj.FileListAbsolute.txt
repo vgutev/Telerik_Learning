@@ -1,0 +1,6 @@
+H:\C#2\homeworks\2_Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+H:\C#2\homeworks\2_Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+H:\C#2\homeworks\2_Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+H:\C#2\homeworks\2_Methods\EnglishDigit\obj\Debug\EnglishDigit.csprojResolveAssemblyReference.cache
+H:\C#2\homeworks\2_Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+H:\C#2\homeworks\2_Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

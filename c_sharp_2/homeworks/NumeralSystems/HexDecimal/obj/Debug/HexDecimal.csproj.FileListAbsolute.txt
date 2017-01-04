@@ -1,0 +1,8 @@
+D:\C#\NumeralSystems\HexDecimal\bin\Debug\HexDecimal.exe.config
+D:\C#\NumeralSystems\HexDecimal\bin\Debug\HexDecimal.exe
+D:\C#\NumeralSystems\HexDecimal\bin\Debug\HexDecimal.pdb
+D:\C#\NumeralSystems\HexDecimal\obj\Debug\HexDecimal.exe
+D:\C#\NumeralSystems\HexDecimal\obj\Debug\HexDecimal.pdb
+H:\C#2\homeworks\NumeralSystems\HexDecimal\bin\Debug\HexDecimal.exe.config
+H:\C#2\homeworks\NumeralSystems\HexDecimal\obj\Debug\HexDecimal.exe
+H:\C#2\homeworks\NumeralSystems\HexDecimal\obj\Debug\HexDecimal.pdb

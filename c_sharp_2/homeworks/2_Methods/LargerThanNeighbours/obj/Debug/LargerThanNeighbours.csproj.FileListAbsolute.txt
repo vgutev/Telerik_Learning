@@ -1,0 +1,5 @@
+H:\C#2\homeworks\2_Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe.config
+H:\C#2\homeworks\2_Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.exe
+H:\C#2\homeworks\2_Methods\LargerThanNeighbours\bin\Debug\LargerThanNeighbours.pdb
+H:\C#2\homeworks\2_Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.exe
+H:\C#2\homeworks\2_Methods\LargerThanNeighbours\obj\Debug\LargerThanNeighbours.pdb

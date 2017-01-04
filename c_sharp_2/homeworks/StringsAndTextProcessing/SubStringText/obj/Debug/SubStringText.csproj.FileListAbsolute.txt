@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\SubStringText\bin\Debug\SubStringText.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\SubStringText\bin\Debug\SubStringText.exe
+H:\C#1\Projects\StringsAndTextProcessing\SubStringText\bin\Debug\SubStringText.pdb
+H:\C#1\Projects\StringsAndTextProcessing\SubStringText\obj\Debug\SubStringText.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\SubStringText\obj\Debug\SubStringText.exe
+H:\C#1\Projects\StringsAndTextProcessing\SubStringText\obj\Debug\SubStringText.pdb

@@ -1,0 +1,6 @@
+H:\C#2\homeworks\1_MultidimensionalArrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe.config
+H:\C#2\homeworks\1_MultidimensionalArrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.csprojResolveAssemblyReference.cache
+H:\C#2\homeworks\1_MultidimensionalArrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.exe
+H:\C#2\homeworks\1_MultidimensionalArrays\LargestAreaInMatrix\bin\Debug\LargestAreaInMatrix.pdb
+H:\C#2\homeworks\1_MultidimensionalArrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.exe
+H:\C#2\homeworks\1_MultidimensionalArrays\LargestAreaInMatrix\obj\Debug\LargestAreaInMatrix.pdb

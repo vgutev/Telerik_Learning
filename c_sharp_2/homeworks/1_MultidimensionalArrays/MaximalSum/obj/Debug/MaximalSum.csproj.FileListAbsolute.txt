@@ -1,0 +1,6 @@
+H:\C#2\homeworks\1_MultidimensionalArrays\MaximalSum\bin\Debug\MaximalSum.exe.config
+H:\C#2\homeworks\1_MultidimensionalArrays\MaximalSum\bin\Debug\MaximalSum.exe
+H:\C#2\homeworks\1_MultidimensionalArrays\MaximalSum\bin\Debug\MaximalSum.pdb
+H:\C#2\homeworks\1_MultidimensionalArrays\MaximalSum\obj\Debug\MaximalSum.exe
+H:\C#2\homeworks\1_MultidimensionalArrays\MaximalSum\obj\Debug\MaximalSum.pdb
+H:\C#2\homeworks\1_MultidimensionalArrays\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.exe
+H:\C#1\Projects\StringsAndTextProcessing\ParseTags\bin\Debug\ParseTags.pdb
+H:\C#1\Projects\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.exe
+H:\C#1\Projects\StringsAndTextProcessing\ParseTags\obj\Debug\ParseTags.pdb

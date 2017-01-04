@@ -1,0 +1,6 @@
+H:\C#2\homeworks\1_MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+H:\C#2\homeworks\1_MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+H:\C#2\homeworks\1_MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+H:\C#2\homeworks\1_MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.csprojResolveAssemblyReference.cache
+H:\C#2\homeworks\1_MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+H:\C#2\homeworks\1_MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

@@ -1,0 +1,5 @@
+D:\C#\NumeralSystems\DecimalHex\bin\Debug\DecimalHex.exe.config
+D:\C#\NumeralSystems\DecimalHex\bin\Debug\DecimalHex.exe
+D:\C#\NumeralSystems\DecimalHex\bin\Debug\DecimalHex.pdb
+D:\C#\NumeralSystems\DecimalHex\obj\Debug\DecimalHex.exe
+D:\C#\NumeralSystems\DecimalHex\obj\Debug\DecimalHex.pdb

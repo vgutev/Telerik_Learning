@@ -1,0 +1,5 @@
+D:\C#\NumeralSystems\BinaryDecimal\bin\Debug\BinaryDecimal.exe.config
+D:\C#\NumeralSystems\BinaryDecimal\bin\Debug\BinaryDecimal.exe
+D:\C#\NumeralSystems\BinaryDecimal\bin\Debug\BinaryDecimal.pdb
+D:\C#\NumeralSystems\BinaryDecimal\obj\Debug\BinaryDecimal.exe
+D:\C#\NumeralSystems\BinaryDecimal\obj\Debug\BinaryDecimal.pdb

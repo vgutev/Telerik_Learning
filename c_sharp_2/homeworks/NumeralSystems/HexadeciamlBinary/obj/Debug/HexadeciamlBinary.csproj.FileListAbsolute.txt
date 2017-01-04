@@ -1,0 +1,5 @@
+D:\C#\NumeralSystems\HexadeciamlBinary\bin\Debug\HexadeciamlBinary.exe.config
+D:\C#\NumeralSystems\HexadeciamlBinary\bin\Debug\HexadeciamlBinary.exe
+D:\C#\NumeralSystems\HexadeciamlBinary\bin\Debug\HexadeciamlBinary.pdb
+D:\C#\NumeralSystems\HexadeciamlBinary\obj\Debug\HexadeciamlBinary.exe
+D:\C#\NumeralSystems\HexadeciamlBinary\obj\Debug\HexadeciamlBinary.pdb

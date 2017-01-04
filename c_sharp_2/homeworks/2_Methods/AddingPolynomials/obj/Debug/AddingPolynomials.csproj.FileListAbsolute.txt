@@ -1,0 +1,5 @@
+H:\C#2\homeworks\2_Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe.config
+H:\C#2\homeworks\2_Methods\AddingPolynomials\bin\Debug\AddingPolynomials.exe
+H:\C#2\homeworks\2_Methods\AddingPolynomials\bin\Debug\AddingPolynomials.pdb
+H:\C#2\homeworks\2_Methods\AddingPolynomials\obj\Debug\AddingPolynomials.exe
+H:\C#2\homeworks\2_Methods\AddingPolynomials\obj\Debug\AddingPolynomials.pdb

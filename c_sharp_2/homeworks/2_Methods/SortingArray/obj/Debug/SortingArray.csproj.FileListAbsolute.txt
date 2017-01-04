@@ -1,0 +1,6 @@
+H:\C#2\homeworks\2_Methods\SortingArray\bin\Debug\SortingArray.exe.config
+H:\C#2\homeworks\2_Methods\SortingArray\bin\Debug\SortingArray.exe
+H:\C#2\homeworks\2_Methods\SortingArray\bin\Debug\SortingArray.pdb
+H:\C#2\homeworks\2_Methods\SortingArray\obj\Debug\SortingArray.csprojResolveAssemblyReference.cache
+H:\C#2\homeworks\2_Methods\SortingArray\obj\Debug\SortingArray.exe
+H:\C#2\homeworks\2_Methods\SortingArray\obj\Debug\SortingArray.pdb

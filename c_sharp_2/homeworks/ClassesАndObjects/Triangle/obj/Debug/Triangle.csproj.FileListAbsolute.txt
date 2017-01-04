@@ -1,0 +1,5 @@
+D:\C#\ClassesАndObjects\Triangle\bin\Debug\Triangle.exe.config
+D:\C#\ClassesАndObjects\Triangle\bin\Debug\Triangle.exe
+D:\C#\ClassesАndObjects\Triangle\bin\Debug\Triangle.pdb
+D:\C#\ClassesАndObjects\Triangle\obj\Debug\Triangle.exe
+D:\C#\ClassesАndObjects\Triangle\obj\Debug\Triangle.pdb

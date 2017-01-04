@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.exe
+H:\C#1\Projects\StringsAndTextProcessing\SeriesOfLetters\bin\Debug\SeriesOfLetters.pdb
+H:\C#1\Projects\StringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.exe
+H:\C#1\Projects\StringsAndTextProcessing\SeriesOfLetters\obj\Debug\SeriesOfLetters.pdb

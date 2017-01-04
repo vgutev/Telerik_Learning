@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.exe
+H:\C#1\Projects\StringsAndTextProcessing\ReplaceTags\bin\Debug\ReplaceTags.pdb
+H:\C#1\Projects\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.exe
+H:\C#1\Projects\StringsAndTextProcessing\ReplaceTags\obj\Debug\ReplaceTags.pdb

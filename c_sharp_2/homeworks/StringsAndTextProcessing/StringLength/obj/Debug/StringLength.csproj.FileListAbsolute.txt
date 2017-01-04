@@ -1,0 +1,6 @@
+H:\C#1\Projects\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe.config
+H:\C#1\Projects\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.exe
+H:\C#1\Projects\StringsAndTextProcessing\StringLength\bin\Debug\StringLength.pdb
+H:\C#1\Projects\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.exe
+H:\C#1\Projects\StringsAndTextProcessing\StringLength\obj\Debug\StringLength.pdb
