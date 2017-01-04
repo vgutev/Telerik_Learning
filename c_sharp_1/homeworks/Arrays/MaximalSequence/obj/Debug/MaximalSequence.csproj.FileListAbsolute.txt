@@ -1,0 +1,6 @@
+H:\C#1\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe.config
+H:\C#1\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.exe
+H:\C#1\Projects\Arrays\MaximalSequence\bin\Debug\MaximalSequence.pdb
+H:\C#1\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.exe
+H:\C#1\Projects\Arrays\MaximalSequence\obj\Debug\MaximalSequence.pdb

@@ -1,0 +1,6 @@
+H:\C#1\Projects\Arrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+H:\C#1\Projects\Arrays\CompareArrays\bin\Debug\CompareArrays.exe
+H:\C#1\Projects\Arrays\CompareArrays\bin\Debug\CompareArrays.pdb
+H:\C#1\Projects\Arrays\CompareArrays\obj\Debug\CompareArrays.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\Arrays\CompareArrays\obj\Debug\CompareArrays.exe
+H:\C#1\Projects\Arrays\CompareArrays\obj\Debug\CompareArrays.pdb

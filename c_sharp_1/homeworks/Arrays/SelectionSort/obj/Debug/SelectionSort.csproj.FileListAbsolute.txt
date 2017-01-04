@@ -1,0 +1,6 @@
+H:\C#1\Projects\Arrays\SelectionSort\bin\Debug\SelectionSort.exe.config
+H:\C#1\Projects\Arrays\SelectionSort\bin\Debug\SelectionSort.exe
+H:\C#1\Projects\Arrays\SelectionSort\bin\Debug\SelectionSort.pdb
+H:\C#1\Projects\Arrays\SelectionSort\obj\Debug\SelectionSort.csprojResolveAssemblyReference.cache
+H:\C#1\Projects\Arrays\SelectionSort\obj\Debug\SelectionSort.exe
+H:\C#1\Projects\Arrays\SelectionSort\obj\Debug\SelectionSort.pdb

@@ -1,0 +1,5 @@
+H:\C#1\Projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe.config
+H:\C#1\Projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.exe
+H:\C#1\Projects\Arrays\MaximalKSum\bin\Debug\MaximalKSum.pdb
+H:\C#1\Projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.exe
+H:\C#1\Projects\Arrays\MaximalKSum\obj\Debug\MaximalKSum.pdb

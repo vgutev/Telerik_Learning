@@ -1,0 +1,5 @@
+H:\C#1\Projects\Arrays\QuickSort\bin\Debug\QuickSort.exe.config
+H:\C#1\Projects\Arrays\QuickSort\bin\Debug\QuickSort.exe
+H:\C#1\Projects\Arrays\QuickSort\bin\Debug\QuickSort.pdb
+H:\C#1\Projects\Arrays\QuickSort\obj\Debug\QuickSort.exe
+H:\C#1\Projects\Arrays\QuickSort\obj\Debug\QuickSort.pdb
