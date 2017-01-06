@@ -10,8 +10,7 @@ namespace ExtensionMethodsDelegatesLambdaLINQ
     
     class Timer
     {
-        public delegate int Repeater<T>(T item);
-
+        public delegate void Repeater();
         public static void TimePrint()
         {
             Console.WriteLine(DateTime.Now);
