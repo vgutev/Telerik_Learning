@@ -1,0 +1,5 @@
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\3.4.5.ArrayFilters\bin\Debug\3.4.5.ArrayFilters.exe.config
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\3.4.5.ArrayFilters\bin\Debug\3.4.5.ArrayFilters.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\3.4.5.ArrayFilters\bin\Debug\3.4.5.ArrayFilters.pdb
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\3.4.5.ArrayFilters\obj\Debug\3.4.5.ArrayFilters.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\3.4.5.ArrayFilters\obj\Debug\3.4.5.ArrayFilters.pdb

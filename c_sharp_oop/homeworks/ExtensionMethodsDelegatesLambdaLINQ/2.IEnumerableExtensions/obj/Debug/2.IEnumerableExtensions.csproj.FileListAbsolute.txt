@@ -1,0 +1,5 @@
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\2.IEnumerableExtensions\bin\Debug\2.IEnumerableExtensions.exe.config
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\2.IEnumerableExtensions\bin\Debug\2.IEnumerableExtensions.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\2.IEnumerableExtensions\bin\Debug\2.IEnumerableExtensions.pdb
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\2.IEnumerableExtensions\obj\Debug\2.IEnumerableExtensions.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\2.IEnumerableExtensions\obj\Debug\2.IEnumerableExtensions.pdb

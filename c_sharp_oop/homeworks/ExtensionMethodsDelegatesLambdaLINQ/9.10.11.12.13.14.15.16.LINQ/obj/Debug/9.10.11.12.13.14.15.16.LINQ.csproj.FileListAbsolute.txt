@@ -1,0 +1,1 @@
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\9.10.11.12.13.14.15.16.LINQ\bin\Debug\9.10.11.12.13.14.15.16.LINQ.exe.config

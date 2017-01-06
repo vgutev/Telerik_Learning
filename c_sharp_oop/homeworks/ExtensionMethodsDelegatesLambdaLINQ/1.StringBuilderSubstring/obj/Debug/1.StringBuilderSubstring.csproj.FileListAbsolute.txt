@@ -1,0 +1,6 @@
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\1.StringBuilderSubstring\bin\Debug\1.StringBuilderSubstring.exe.config
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\1.StringBuilderSubstring\bin\Debug\1.StringBuilderSubstring.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\1.StringBuilderSubstring\bin\Debug\1.StringBuilderSubstring.pdb
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\1.StringBuilderSubstring\obj\Debug\1.StringBuilderSubstring.csprojResolveAssemblyReference.cache
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\1.StringBuilderSubstring\obj\Debug\1.StringBuilderSubstring.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\1.StringBuilderSubstring\obj\Debug\1.StringBuilderSubstring.pdb

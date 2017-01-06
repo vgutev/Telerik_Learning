@@ -1,0 +1,6 @@
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\LongestString\bin\Debug\LongestString.exe.config
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\LongestString\bin\Debug\LongestString.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\LongestString\bin\Debug\LongestString.pdb
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\LongestString\obj\Debug\LongestString.csprojResolveAssemblyReference.cache
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\LongestString\obj\Debug\LongestString.exe
+D:\C#\ExtensionMethodsDelegatesLambdaLINQ\LongestString\obj\Debug\LongestString.pdb
