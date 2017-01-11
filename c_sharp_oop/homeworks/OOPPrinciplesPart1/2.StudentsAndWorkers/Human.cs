@@ -38,5 +38,11 @@ namespace _2.StudentsAndWorkers
                 }
             }
         }
+
+        public Human(string firstName, string lastName)
+        {
+            this.FirstName = firstName;
+            this.LastName = lastName;
+        }
     }
 }

@@ -22,10 +22,9 @@ namespace _2.StudentsAndWorkers
             }
         }
 
-        public Student(int grade) : base()
+        public Student(int grade, string firstName, string lastName) : base(firstName, lastName)
         {
             this.Grade = grade;
-
         }
 
     }
