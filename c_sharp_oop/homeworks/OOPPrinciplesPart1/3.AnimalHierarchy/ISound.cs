@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2.StudentsAndWorkers 
+namespace _3.AnimalHierarchy
 {
-    class Worker : Human
+    public interface ISound
     {
-        private float weekSalary;
-        private int workHoursPerDay;
+        string ProduceSound();
     }
 }
