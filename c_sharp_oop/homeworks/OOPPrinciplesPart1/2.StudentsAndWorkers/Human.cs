@@ -12,10 +12,11 @@ namespace _2.StudentsAndWorkers
         private string lastName;
 
         public string FirstName
-        { get
+        {
+            get
             {
                 return this.firstName;
-                    }
+            }
             private set
             {
                 if (!string.IsNullOrEmpty(value))

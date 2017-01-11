@@ -26,6 +26,5 @@ namespace _2.StudentsAndWorkers
         {
             this.Grade = grade;
         }
-
     }
 }
