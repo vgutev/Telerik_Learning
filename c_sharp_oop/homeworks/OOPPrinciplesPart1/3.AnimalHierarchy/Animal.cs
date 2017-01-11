@@ -67,16 +67,19 @@ namespace _3.AnimalHierarchy
             this.Sex = sex;
         }
 
-        public static int AverageAge(Animal[] animals)
+        public static void AverageAge(Animal[] animals)
         {
-            int sumAge = 0;
-            int counter = 0;
-            foreach (var animal in animals)
-            {
-                sumAge += animal.age;
-                counter++;
-            }
-            return sumAge / counter;
+            List<string> animalType = new List<string>();
+            //List<int> animalTypeCount = new lis
+            animals.Average()
+            //int sumAge = 0;
+            //int counter = 0;
+            //foreach (var animal in animals)
+            //{
+            //    sumAge += animal.age;
+            //    counter++;
+            //}
+            //return sumAge / counter;
         }
     }
 }
