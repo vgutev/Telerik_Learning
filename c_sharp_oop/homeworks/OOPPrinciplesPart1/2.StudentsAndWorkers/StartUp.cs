@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _2.StudentsAndWorkers
 {
@@ -15,12 +13,12 @@ namespace _2.StudentsAndWorkers
             studentsList.Add(new Student(3, "Ivan", "Petrov"));
             studentsList.Add(new Student(3, "Pesho", "Minchev"));
             studentsList.Add(new Student(4, "Garibaldi", "Rombev"));
-            studentsList.Add(new Student(9, "Sracimir", "Krumov"));
+            studentsList.Add(new Student(9, "Toni", "Krumov"));
             studentsList.Add(new Student(1, "Strahil", "Jelyazkov"));
             studentsList.Add(new Student(3, "Sava", "Krumov"));
             studentsList.Add(new Student(3, "Genadi", "Darmadanov"));
             studentsList.Add(new Student(4, "Asen", "Karatonchev"));
-            studentsList.Add(new Student(9, "Kalin", "Ibrikchiev"));
+            studentsList.Add(new Student(9, "Stan", "Ibrikchiev"));
             studentsList.Add(new Student(1, "John", "Dimitrichkov"));
             var orderedStudentsList =
                 from student in studentsList
@@ -64,7 +62,7 @@ namespace _2.StudentsAndWorkers
                 from human in mergedList3
                 orderby human.FirstName + human.LastName
                 select human;
-            Console.WriteLine("Merged lists of students and workers sorted by names:");
+            Console.WriteLine("\nMerged lists of students and workers sorted by names:");
             foreach (var human in humanList)
             {
                 Console.WriteLine("First name: {0} \tLast name: {1}", human.FirstName, human.LastName);

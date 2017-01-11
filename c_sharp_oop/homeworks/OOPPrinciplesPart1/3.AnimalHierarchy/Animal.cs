@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace _3.AnimalHierarchy
 {
     class Animal
@@ -69,17 +64,16 @@ namespace _3.AnimalHierarchy
 
         public static void AverageAge(Animal[] animals)
         {
-            List<string> animalType = new List<string>();
-            //List<int> animalTypeCount = new lis
-            //animals.Average()
-            //int sumAge = 0;
-            //int counter = 0;
-            //foreach (var animal in animals)
-            //{
-            //    sumAge += animal.age;
-            //    counter++;
-            //}
-            //return sumAge / counter;
+            int sumAge = 0;
+            int counter = 0;
+            foreach (var animal in animals)
+            {
+                sumAge += animal.age;
+                counter++;
+            }
+            string animalType = animals.GetType().Name;
+            animalType = animalType.Remove(animalType.Length - 2) + "s";
+            Console.WriteLine("The average age of {0} in the list is: \t{1}", animalType, sumAge / counter);
         }
     }
 }

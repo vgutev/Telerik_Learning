@@ -1,2 +1,6 @@
 D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\1.School classes\bin\Debug\1.School classes.exe.config
 H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\1.School classes\bin\Debug\1.School classes.exe.config
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\1.School classes\bin\Debug\1.School classes.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\1.School classes\bin\Debug\1.School classes.pdb
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\1.School classes\obj\Debug\1.School classes.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\1.School classes\obj\Debug\1.School classes.pdb
