@@ -1,1 +1,7 @@
 H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe.config
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\bin\Debug\2.StudentsAndWorkers.pdb
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.csprojResolveAssemblyReference.cache
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\2.StudentsAndWorkers\obj\Debug\2.StudentsAndWorkers.pdb

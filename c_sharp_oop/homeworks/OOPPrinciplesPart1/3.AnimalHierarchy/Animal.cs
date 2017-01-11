@@ -71,7 +71,7 @@ namespace _3.AnimalHierarchy
         {
             List<string> animalType = new List<string>();
             //List<int> animalTypeCount = new lis
-            animals.Average()
+            //animals.Average()
             //int sumAge = 0;
             //int counter = 0;
             //foreach (var animal in animals)

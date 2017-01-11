@@ -46,10 +46,10 @@ namespace _2.StudentsAndWorkers
             this.WorkHoursPerDay = workHoursPerDay;
         }
 
-        private float MoneyPerHour(float weekSalary, int workHoursPerDay)
+        public float MoneyPerHour()
         {
             float moneyPerHour;
-            moneyPerHour = weekSalary / (workHoursPerDay * 5);
+            moneyPerHour = this.weekSalary / (this.workHoursPerDay * 5);
             return moneyPerHour;
         }
     }
