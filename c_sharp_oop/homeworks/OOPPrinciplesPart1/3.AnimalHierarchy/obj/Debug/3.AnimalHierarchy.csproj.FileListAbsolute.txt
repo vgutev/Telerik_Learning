@@ -1,9 +1,0 @@
-H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe.config
-H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe
-H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.pdb
-H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.exe
-H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.pdb
-H:\GIT\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.csprojResolveAssemblyReference.cache
-D:\C#\temporary2\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\bin\Debug\3.AnimalHierarchy.exe.config
-D:\C#\temporary2\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.exe
-D:\C#\temporary2\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart1\3.AnimalHierarchy\obj\Debug\3.AnimalHierarchy.pdb
