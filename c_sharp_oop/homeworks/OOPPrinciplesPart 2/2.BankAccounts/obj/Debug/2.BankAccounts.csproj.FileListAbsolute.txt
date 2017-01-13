@@ -1,0 +1,5 @@
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\2.BankAccounts\bin\Debug\2.BankAccounts.exe.config
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\2.BankAccounts\bin\Debug\2.BankAccounts.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\2.BankAccounts\bin\Debug\2.BankAccounts.pdb
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\2.BankAccounts\obj\Debug\2.BankAccounts.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\2.BankAccounts\obj\Debug\2.BankAccounts.pdb

@@ -1,0 +1,6 @@
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\1. Shapes\bin\Debug\_1.Shapes.exe.config
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\1. Shapes\bin\Debug\_1.Shapes.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\1. Shapes\bin\Debug\_1.Shapes.pdb
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\1. Shapes\obj\Debug\1. Shapes.csprojResolveAssemblyReference.cache
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\1. Shapes\obj\Debug\_1.Shapes.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\1. Shapes\obj\Debug\_1.Shapes.pdb

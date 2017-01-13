@@ -1,0 +1,6 @@
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\3.RangeExceptions\bin\Debug\3.RangeExceptions.exe.config
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\3.RangeExceptions\bin\Debug\3.RangeExceptions.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\3.RangeExceptions\bin\Debug\3.RangeExceptions.pdb
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\3.RangeExceptions\obj\Debug\3.RangeExceptions.csprojResolveAssemblyReference.cache
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\3.RangeExceptions\obj\Debug\3.RangeExceptions.exe
+D:\C#\Telerik_Learning\c_sharp_oop\homeworks\OOPPrinciplesPart 2\3.RangeExceptions\obj\Debug\3.RangeExceptions.pdb
