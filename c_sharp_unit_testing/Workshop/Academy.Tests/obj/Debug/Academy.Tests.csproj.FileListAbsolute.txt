@@ -60,3 +60,23 @@ D:\C#\Unit Testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.xml
 D:\C#\Unit Testing\Workshop\Academy.Tests\obj\Debug\Academy.Tests.csprojResolveAssemblyReference.cache
 D:\C#\Unit Testing\Workshop\Academy.Tests\obj\Debug\Academy.Tests.dll
 D:\C#\Unit Testing\Workshop\Academy.Tests\obj\Debug\Academy.Tests.pdb
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Academy.Tests.dll.config
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Academy.Tests.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Academy.Tests.pdb
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Academy.exe
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Castle.Core.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Moq.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\nunit.framework.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Academy.pdb
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Castle.Core.xml
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Moq.xml
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\nunit.framework.xml
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.xml
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.AutoMoq.xml
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\bin\Debug\Ploeh.AutoFixture.NUnit3.xml
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\obj\Debug\Academy.Tests.csprojResolveAssemblyReference.cache
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\obj\Debug\Academy.Tests.dll
+D:\C#\Telerik_Learning\c_sharp_unit_testing\Workshop\Academy.Tests\obj\Debug\Academy.Tests.pdb

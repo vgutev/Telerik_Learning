@@ -58,6 +58,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\Adding\AddStudentToSeasonCommandTests\Constructor_Should.cs" />
+    <Compile Include="Core\Factories\AcademyFactoryTests\CreateLectureResource_Should.cs" />
     <Compile Include="Models\Abstractions\UserTests\Constructor_Should.cs" />
     <Compile Include="Models\Abstractions\UserTests\Username_Should.cs" />
     <Compile Include="Models\CourseTests\Constructor_Should.cs" />
